@@ -65,6 +65,16 @@ data(gss_sm)
 This `gss_sm` data frame contains 2538 rows and 26 variables.
 Try `?gss_sm` to learn more about each column.
 
+Dataset 4: Weather conditions in Austin
+
+Please download the data from here
+
+```{r echo=F}
+
+xfun::embed_file('data/austin_weather.csv')
+
+
+```
 
 # Basic graphics in R
 
